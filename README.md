@@ -10,7 +10,7 @@
 ### Quiz 2 (11.11.25)
 Syllabus: unit 2-3
 ### End-Sem (22.11.25)
-Syllabus: Entire Portion with almost equal weightage
+Syllabus: Entire Portion with almost equal weightage\
 Marks: 100, 25(approx) for each unit. (will be scaled down to 50)
 ## EVS
 ### Quiz 2 (14.11.25)
