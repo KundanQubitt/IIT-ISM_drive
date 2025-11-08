@@ -3,6 +3,7 @@
 ## Engg Mech
 ### End-Sem (19.11.25)
 ## Engg Phy
+### Quiz 2 (4.11.25)
 ### End-Sem (20.11.25)
 ## EDC
 ### End-Sem (21.11.25)
