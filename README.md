@@ -3,7 +3,7 @@
 ## Engg Mech NMEC101
 ### End-Sem (19.11.25)
 Time: 1.30pm - 3.30pm\
-Syllabus: yet to be announced
+Syllabus: Module 4 - 9 i.e. post mid-sem portion
 ## Engg Phy NPHI101
 ### ~Quiz 2~ (4.11.25)
 Completed
@@ -13,7 +13,7 @@ Syllabus: All Lectures
 ## EDC NEEE101
 ### End-Sem (21.11.25)
 Time: 1.30pm - 3.30pm\
-Syllabus: yet to be announced
+Syllabus: All Lectures
 ## Engg Math 1 NMCI101
 ### Quiz 2 (11.11.25)
 10 Ques - 10 marks\
